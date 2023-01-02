@@ -16,6 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Talipbl&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Talipbl&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Talipbl&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
