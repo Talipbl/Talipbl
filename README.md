@@ -16,9 +16,6 @@ I'm currently working on integration systems.<br>I'm currently learning microser
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Talipbl&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Talipbl&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Talipbl&icon=9&color=12)](https://visitcount.itsvg.in)
 
